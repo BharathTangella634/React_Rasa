@@ -68,5 +68,9 @@ We have built this project using the **MERN stack**:
 - **Location Navigation**: Guides users to event locations using Leaflet.
 - **AI-Enhanced Chatbot**: Uses Gemini API for better responses.
 
+# AI Receptionist for Event Management - TECKZITE
+
+![Rasa Interactive Agent for Event Assistance](https://i.ibb.co/sJCxrDWP)
+
 This AI Receptionist serves as a smart assistant for managing event-related queries and providing seamless event navigation. 🚀
 
