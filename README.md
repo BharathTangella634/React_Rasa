@@ -69,8 +69,7 @@ We have built this project using the **MERN stack**:
 - **AI-Enhanced Chatbot**: Uses Gemini API for better responses.
 
 # AI Receptionist for Event Management - TECKZITE
-
-![Rasa Interactive Agent for Event Assistance]([https://i.ibb.co/sJCxrDWP](https://i.ibb.co/Tq1j5nWT/image.png))
+![Rasa Interactive Agent for Event Assistance](https://i.ibb.co/Tq1j5nWT/image.png)
 
 This AI Receptionist serves as a smart assistant for managing event-related queries and providing seamless event navigation. 🚀
 
