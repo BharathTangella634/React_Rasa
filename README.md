@@ -71,5 +71,8 @@ We have built this project using the **MERN stack**:
 # AI Receptionist for Event Management - TECKZITE
 ![Rasa Interactive Agent for Event Assistance](https://i.ibb.co/Tq1j5nWT/image.png)
 
+## Event Map  
+![Event map to showcase all the activities happening around](https://i.ibb.co/39kXZNjh/image.png)
+
 This AI Receptionist serves as a smart assistant for managing event-related queries and providing seamless event navigation. 🚀
 
