@@ -248,7 +248,7 @@ const Chatbot = () => {
     }
 
     try {
-      const rasaResponse = await fetch("https://3056-103-225-13-247.ngrok-free.app/webhooks/rest/webhook", {
+      const rasaResponse = await fetch(" https://8d77-103-225-13-247.ngrok-free.app/webhooks/rest/webhook", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ sender: "user", message: userMessage }),
